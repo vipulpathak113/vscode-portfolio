@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Suvidha (Karnataka)",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Welfare scheme discovery platform in the state of Karnataka with 140 central and state welfare schemes.",
+    "tags": ["react", "node", "java", "redux", "easygov", "material-ui","scss","spring"],
+    "demo": "https://suvidha.karnataka.gov.in//"
+  },
+  {
+    "id": 2,
+    "name": "Jagrut Tripura",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Jagrut Tripura is a white labelled EasyGov platform for Government of Tripura, to help citizens identify schemes they are eligible for from various schemes and benefits offered by the Centre and the State Government.",
+    "tags": ["react", "node", "java", "redux", "easygov", "material-ui","scss","spring"],
+    "demo": "https://jagrut.tripura.gov.in/"
+  },
+  {
+    "id": 3,
+    "name": "Launch My career",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "LaunchMyCareer is a career-success platform that promises to help young learners discover their interests, identify their potential, learn workplace readiness skills and apply these in real life.",
+    "tags": ["next", "node", "react", "css-modules", "react-query","scss"],
+    "demo": "https://www.launchmycareer.com/"
+  },
+  {
+    "id": 4,
+    "name": "Sahaj Taknik Yojana (Bihar)",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Sahaj Taknik Yojna was deployed on the EasyGov platform to help citizens identify schemes they are eligible for and apply for the schemes without the need to step out of their homes.",
+    "tags": ["react", "node", "java", "redux", "easygov", "material-ui","scss","spring"],
+    "demo": "https://sahajtaknikyojna.bihar.gov.in/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
