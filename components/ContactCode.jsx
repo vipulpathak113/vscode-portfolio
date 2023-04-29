@@ -1,11 +1,6 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  // {
-  //   social: 'website',
-  //   link: 'nitinranganath.me',
-  //   href: 'https://nitinranganath.me',
-  // },
   {
     social: 'email',
     link: 'vipulpathak113@gmail.com',
